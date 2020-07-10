@@ -1,6 +1,11 @@
 ﻿# Hyperspectral Round-Robin Test Data
 
-This repository contains spectral data acquired from a round-robin test of pushbroom hyperspectral imaging systems and accompanies the article *"Evaluation of the Data Quality from a Round-Robin Test of Hyperspectral Imaging Systems"*.
+This repository contains spectral data acquired from a round-robin test of pushbroom hyperspectral imaging systems and accompanies the article [*"Evaluation of the Data Quality from a Round-Robin Test of Hyperspectral Imaging Systems"*](https://www.mdpi.com/1424-8220/20/14/3812/htm)
+
+> Pillay, R.; Picollo, M.; Hardeberg, J.Y.; George, S. Evaluation of the Data Quality from a Round-Robin Test of Hyperspectral Imaging Systems. Sensors 2020, 20, 3812.
+> DOI: 10.3390/s20143812
+
+
 
 The data here is from 14 different pushbroom hyperspectral systems from 3 different manufacturers.  The data was acquired by 8 different institutions spectral data from the visible, near infra-red and short-wave infra-red regions was acquired of 2 different test targets.
 
